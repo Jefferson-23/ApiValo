@@ -39,7 +39,7 @@ var agents = new[]
             new Ability("RUN IT BACK", "INSTANTLY place a marker at Phoenix’s location. While this ability is active, dying or allowing the timer to expire will end this ability and bring Phoenix back to the marker with full health.")
         },
         "Hailing from the U.K., Phoenix's star power shines through in his fighting style, igniting the battlefield with flash and flare. Whether he's got backup or not, he's rushing into the fight on his own terms.",
-        "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/8fd07b947f8761cf03bc60461b4f2c9400277301-616x822.png?auto=format&fit=fill&q=80&w=415"
+        "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/47387e354c34d51b84066bc47af3c5755b92b9c5-616x822.png?auto=format&fit=fill&q=80&w=415"
     ),
     new Agent(
         "Omen",
@@ -52,7 +52,7 @@ var agents = new[]
             new Ability("FROM THE SHADOWS", "EQUIP a tactical map. FIRE to begin teleporting to the selected location. While teleporting, Omen will appear as a Shade that can be killed by enemies to cancel his teleport.")
         },
         "Omen hunts in the shadows. He renders enemies blind, teleports across the field, then lets paranoia take hold as his foe scrambles to uncover where he might strike next.",
-        "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/61d8f9f0c1364b5e7f33e8a6c1768b5d750ca13a-616x822.png?auto=format&fit=fill&q=80&w=415"
+        "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/015a083717e9687de8a741cfceddb836775b5f9f-616x822.png?auto=format&fit=fill&q=80&w=415"
     ),
     new Agent(
         "Sova",
@@ -91,7 +91,7 @@ var agents = new[]
             new Ability("DIMENSIONAL DRIFT", "EQUIP a mask that can see between dimensions. FIRE to drift into Yoru's dimension, making him unable to be affected or seen by enemies.")
         },
         "Japanese native Yoru rips holes straight through reality to infiltrate enemy lines unseen. Using deception and aggression in equal measure, he gets the drop on each target before they know where to look.",
-        "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/cc83b36c7e7a33179fead9f12a9ec8bece2aabdb-616x822.png?auto=format&fit=fill&q=80&w=415"
+        "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/05e1a996814dd10d7179efee327d29a7be00e912-616x822.png?auto=format&fit=fill&q=80&w=415"
     )
 };
 
